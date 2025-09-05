@@ -1,0 +1,49 @@
+ body {
+      
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    .header {
+      background: #1e3a8a;
+      color: #fff;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .header p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+    .title{
+        text-align: center;
+    }
+    .card{
+    border: 1px solid black;
+    margin: 20px;
+    width:400px; 
+    padding: 30px 30px;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+.card-img{
+    height:64px;
+    width: 64px;
+}
+.card-title{
+    font-size: 30px;
+    text-align: center;
+
+}
+.card-imgs{
+     height:200px;
+    width: 400px;
+}
+
+
+   
+   
